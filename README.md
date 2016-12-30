@@ -1,8 +1,8 @@
 
 ```
-Para iniciar el proyecto
+Para iniciar el proyecto, ejecutar si o si
 
-npm install   // instala dependencias
+npm install   // instala dependencias servidor node, babel, etc.
 npm start //para construir el proyecto y correrlo
 o
 npm run serve //levanta el servidor
