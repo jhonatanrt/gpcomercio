@@ -14,4 +14,8 @@ El trabajo de ordenamiento se uso las siguientes herramientas:
 - JavaScript(Diccionario, array) para controlar las posiciones ya que se hizo mediante el id
 - Express para la usar el servidor de node y visualizar las plantillas.
 - Babel, para que no ocurra probalemas con interpretacion en el browser
+
+
+Con respecto a el ingreso de numeros diferentes y solo números
+lo realize en tiempo real.
 ```
