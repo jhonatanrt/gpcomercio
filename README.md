@@ -8,10 +8,12 @@ o
 npm run serve //levanta el servidor
 
 El trabajo de ordenamiento se uso las siguientes herramientas:
-- Prinicpalmente use el framework Jquery
-- CSS, para los estilos ya que no se uso bootstrap.
+- Principalmente use el framework Jquery, use el metodo animate() que facilita la animacion mediante
+CSS, de una manera facil.
+- CSS, para los estilos ya que no habia la necesidad de usar bootstrap.
 - Tambien use page.js que simula interaccion de paginas para FrontEnd
-- JavaScript(Diccionario, array) para controlar las posiciones ya que se hizo mediante el id
+- JavaScript(Diccionario, array) para controlar las posiciones ya que se hizo mediante el id. ademas de usar la 
+funcion setTimeout(), para ejecutar animaciones una despues de otra.
 - Express para la usar el servidor de node y visualizar las plantillas.
 - Babel, para que no ocurra probalemas con interpretacion en el browser
 
