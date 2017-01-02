@@ -3,10 +3,10 @@
 Para iniciar el proyecto, ejecutar si o si
 
 npm install   // instala dependencias servidor node, babel, etc.
-npm start //para construir el proyecto y correrlo
-o
-npm run serve //levanta el servidor
+npm start //para construir el proyecto y correrlo luego ingresar 
+En Chrome localhost:3000
 
+O realizar esto npm run serve //levanta el servidor
 El trabajo de ordenamiento se uso las siguientes herramientas:
 - Principalmente use el framework Jquery, use el metodo animate() que facilita la animacion mediante
 CSS, de una manera facil.
